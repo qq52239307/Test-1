@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\6ae2112f95a6835270c5191d62b0403cee45ff95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_86d2717bd3fa3d645a12a985951683ec1936e890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\da222e9a6f65db80d503c445c82abbad9d2c11d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_ae27c13ddcb87d9683841a70732d81e11d2d1014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\18df4c371c590eac809f56d0fca8d18934ea04f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_dac1ecca057c7a53c43a224a80254a9e46a4e159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\07280a06cba4e7a1fbc60897f3725540b3a03419\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d51e5ce2548d31a1a60981cbef32dbb5f5016fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\c85a8c80405bc400831a44586136127105d3016a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_809cc4fa837b82a1d8ad4c79cc4275f2354fe02c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\c85a8c80405bc400831a44586136127105d3016a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_c531e5eef5236cee07d715f07cb132e57e040567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\59d7ba3a61d5f047b81bdc11078a2e6619169285\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_237d2e5e67f2a5a1cf17a48c2462411567163b9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\18df4c371c590eac809f56d0fca8d18934ea04f9\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6e461d9c0af23c286e690d8143907061af94e683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\59d7ba3a61d5f047b81bdc11078a2e6619169285\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_f9b1e6ea498c71e2ccbddbab8230c3b3675f201c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\196f2e90c18adf8ff5300e9f7a97d3cf414b3976\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_39212ca27f848e4f86fd8748825121994847a9f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\9c0227c5f932c2ec530d4c05a50c24d7641baef1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_ab729f28633ad15d2e5b8048db6600cd15e0643d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\07280a06cba4e7a1fbc60897f3725540b3a03419\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_3828e534d26c717113e5f2b227cef63159627df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\76fab9422fac41f0114bb69b79339b5a7ddc710f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_5dea8ab45b9a16c776747efd41997db45ec51b34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\78a56a3902b58a3dc86e01f767d036d04602e7da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_a4f383d2cb20034da719a7d758594554b2d75b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_641b6e9427d006db85730e9b32de6e641d2eaae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\fe45a52b45c27886a634ee593f6f6202f82bdcbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\classes_d065cc1df4a4681812f0b0657ad8dfdede917864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\阿斗。\.android\build-cache\da222e9a6f65db80d503c445c82abbad9d2c11d0\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Test\MyApplication1-master (1)\MyApplication1-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_14255a7ff6c2c533612ab31e6d741566bd8d0843.jar" />
+    </item>
+
+</items>
